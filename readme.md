@@ -1,5 +1,10 @@
 ## Gopher TrashBox
 
+
+## Gopher PenStand
+
+<img width="30%" src="https://raw.githubusercontent.com/saitetu/GopherTrashBox/images/penstand.jpg"/>
+
 ## Gopher-side_path
 gopher-side_path was created by Takuya Ueda (https://twitter.com/tenntenn). Licensed under the Creative Commons 3.0 Attributions license.
 
