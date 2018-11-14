@@ -1,6 +1,5 @@
 ## Gopher TrashBox
 
-
 ## Gopher PenStand
 
 <img width="30%" src="https://raw.githubusercontent.com/saitetu/GopherTrashBox/images/penstand.jpg"/>
